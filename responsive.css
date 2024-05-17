@@ -1,0 +1,287 @@
+@media screen and (max-width: 430px) {
+
+    body {
+        font-family: 'Satoshi', sans-serif;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .headsec0 {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .headsec2 i {
+        margin-left: 20px;
+    }
+
+    .hdsec0 {
+        display: none;
+    }
+
+    .head2sec1 {
+        display: none;
+    }
+
+    .hrdiv {
+        display: none;
+    }
+
+    .maindiv1 {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .maindiv4 {
+        background-color: rgb(249, 249, 249);
+        width: 42%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .maindiv3 {
+        margin-left: 41px;
+        margin-top: -19px;
+    }
+
+    .maindiv0 h2 {
+        color: rgb(42, 37, 75);
+    }
+
+    .maindiv3 h3 {
+        color: rgb(42, 37, 75);
+    }
+
+    .maindiv3 p {
+        color: rgb(42, 37, 75);
+    }
+
+    .mainsec {
+        margin-left: 24px;
+    }
+
+    .maindiv4 {
+        padding: 5px;
+        margin-top: -8px;
+    }
+
+    .maindiv4 span {
+        margin-left: 13px;
+        margin-right: 13px;
+    }
+
+    .main2div1 {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .main2div4 {
+        background-color: rgb(249, 249, 249);
+        width: 42%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .main2div3 {
+        margin-left: 41px;
+        margin-top: -19px;
+    }
+
+    .main2div0 h2 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main2div3 h3 {
+        color: rgb(42, 37, 75);
+    }
+
+    .main2div3 p {
+        color: rgb(42, 37, 75);
+    }
+
+    .main2sec {
+        margin-left: 24px;
+    }
+
+    .main2div4 {
+        padding: 5px;
+        margin-top: -8px;
+    }
+
+    .main2div4 span {
+        margin-left: 13px;
+        margin-right: 13px;
+    }
+
+    .mainsec {
+        background-color: rgb(249, 249, 249);
+        margin-left: -7px;
+    }
+
+    .mai {
+        margin-left: 28px;
+        padding-top: 20px;
+    }
+
+    .main2div5 {
+        justify-content: flex-end;
+        display: flex;
+        align-items: center;
+        margin-right: 42px;
+        font-size: 21px;
+    }
+
+    .main2div5 p {
+        margin-left: 16px;
+        color: rgb(42, 37, 75);
+    }
+
+    .main2div5 h3 {
+        color: rgb(78, 77, 147);
+    }
+
+    .main2div6 span {
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 43px;
+        color: rgb(78, 77, 147);
+    }
+
+    .main2div7 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .main2div7 button {
+        margin-top: 36px;
+        padding: 16px;
+        width: 85%;
+        border: 0px;
+        background-color: rgb(42, 37, 75);
+        color: white;
+        font-size: 16px;
+    }
+
+    .main3sec {
+        display: none;
+    }
+
+    .mainsec {
+        display: block;
+    }
+
+
+    .sd6 li {
+        list-style: none;
+    }
+
+    .sd8 li {
+        margin-left: -36px;
+    }
+
+    .sd9 li {
+        margin-left: -36px;
+    }
+
+    .sd10 li {
+        margin-left: -36px;
+    }
+
+    .sd6 {
+        color: white;
+        background-color: rgb(42, 37, 75);
+      
+        margin-left: -10px;
+       
+    }
+
+    .sd8 {
+        margin-left: 30px;
+    }
+
+    .sd9 {
+        margin-right: 25px;
+    }
+
+    .sd10 {
+        margin-left: 30px;
+    }
+
+    .sd11 {
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .sd12 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sd11 input {
+        padding: 12px;
+        border: 0px;
+        background-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .sd11 ::placeholder {
+        color: white;
+    }
+
+    .sd11 button {
+        padding: 12px;
+        border: 0px;
+        background-color: white;
+        color: rgb(42, 37, 75);
+        width: 78px;
+    }
+
+    .sd6 hr {
+        width: 91%;
+        color: rgb(78, 77, 147);
+        margin-top: 18px;
+    }
+
+    .sec7div8 {
+        display: none;
+    }
+
+    .sd6 {
+        display: block;
+    }
+
+    .sd7 {
+        margin-top: 188px;
+    }
+
+    .sd13 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .sd6 {
+        height: 710px;
+    }
+
+    .sd8 {
+        margin-left: 45px;
+    }
+
+    .sd10 {
+        margin-left: 45px;
+    }
+
+    .sd11 {
+        margin-left: 45px;
+    }
+
+    .sd9 {
+        margin-right: 35px;
+    }
+
+    .sd6 li {
+        margin-top: 10px;
+    }
+}
